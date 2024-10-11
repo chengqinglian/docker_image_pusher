@@ -1,3 +1,4 @@
 library/mysql
 appsmith/appsmith-ee
 nyanmisaka/jellyfin
+hslr/sun-panel
