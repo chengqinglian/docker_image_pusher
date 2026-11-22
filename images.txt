@@ -4,3 +4,4 @@ nyanmisaka/jellyfin
 hslr/sun-panel
 docker.io/bitnami/mongodb:6.0
 registry.rocket.chat/rocketchat/rocket.chat
+homeassistant/home-assistant
